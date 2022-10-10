@@ -1,7 +1,7 @@
 # Economic Growth Slides Introduction to Jupyter
 ---
 
-Reveal.js slides for Economic Growth course from [Jupyter Notebook "Introduction to Jypyter and Markdown"](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Intro-Jupyter.ipynb)
+Reveal.js slides for Economic Growth course from [Jupyter Notebook "Introduction to Jupyter and Markdown"](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Intro-Jupyter.ipynb)
 
 # Copyright 
 
